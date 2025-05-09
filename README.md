@@ -10,10 +10,4 @@
 
 With a strong focus on **Frontend Development**, I thrive on building high-performing teams and delivering scalable, innovative solutions that drive real impact. My passion lies in **User experience**, where I turn complex challenges into opportunities for growth.
 
-🔭 Leading teams on transformative projects to reshape industries.
-
-🌱 Continuously learning and empowering others through mentorship and collaboration.
-
-🚀 Dedicated to pushing the boundaries of technology while fostering a culture of excellence.
-
 Inspired by [justashton](https://github.com/justashton/justashton)
